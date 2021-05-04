@@ -7,13 +7,16 @@ computador = randint(1, 3)
 print('\033[1;31m-=-=-JOKENPÔ-=-=-')
 print(computador)
 print('\033[1;97mEscolha entre:\n [ 1 ] Pedra 👊\n [ 2 ] Papel🖐️\n [ 3 ] Tesoura ✌️')
+
 jogador = int(input('\nQual você escolhe? '))
+
 print('\033[1;31mJO')
 sleep(1)
 print('KEN')
 sleep(1)
 print('PÔ')
 sleep(1)
+
 print('\033[1;97m-' * 30)
 print('O jogador jogou {}'.format(opçoes[jogador]))
 print('O computador jogou {}'.format(opçoes[computador]))
