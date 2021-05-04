@@ -1,9 +1,11 @@
 <h1 align="center">Jokenpô</h1>
 
-*O codigo ta feio mas ta funcionando* 🤝
+<h2 align="center">O codigo ta feio mas ta funcionando 🤝</h2>
 
-<img src="/jokenpô/screenshot.png"/>
+**_Jokenpô feito em python_**
 
-<img src="/jokenpô/screenshot2.png"/>
+![alt text](https://github.com/azuosz/jokenpozado/blob/main/screenshot.PNG?raw=true) </p>
 
-<img src="/jokenpô/screenshot3.png"/>
+![alt text](https://github.com/azuosz/jokenpozado/blob/main/screenshot2.PNG?raw=true)
+
+![alt text](https://github.com/azuosz/jokenpozado/blob/main/screenshot3.PNG?raw=true)
