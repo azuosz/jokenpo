@@ -2,7 +2,7 @@
 
 <h2 align="center">Feito em python<h2/>
 
-**Exemplos**
+**Exemplos:**
 
 ![alt text](https://github.com/azuosz/jokenpozado/blob/main/screenshot.PNG?raw=true) </p>
 
