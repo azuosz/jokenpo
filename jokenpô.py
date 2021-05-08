@@ -54,3 +54,4 @@ elif jogador == 3:
 
     elif computador == 3:
         print('\033[1;93mEmpatou\033[m\n')
+        
