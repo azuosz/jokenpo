@@ -5,7 +5,6 @@ opçoes = (' ', 'Pedra 👊', 'Papel 🖐️', 'Tesoura ✌️')
 computador = randint(1, 3)
 
 print('\033[1;31m-=-=-JOKENPÔ-=-=-')
-print(computador)
 print('\033[1;97mEscolha entre:\n [ 1 ] Pedra 👊\n [ 2 ] Papel🖐️\n [ 3 ] Tesoura ✌️')
 
 jogador = int(input('\nQual você escolhe? '))
